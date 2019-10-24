@@ -4,6 +4,9 @@
 
 A Telegram bot that can tell you the price/cost of a file before downloading it on mobile data.
 
+https://heroku.com/deploy
+
+
 ### Installing
 Clone this repo 
 
